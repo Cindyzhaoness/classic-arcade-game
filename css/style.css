@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+	font-family: sans-serif;
+}
+
+.game-stats {
+	margin: 2em auto 0 auto;
+	height: 5vh;
+	width: 90vw;
+	
+}
+
+.score {
+	font-size: 1.4em;
+	font-weight: 700;
+}
